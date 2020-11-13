@@ -4,7 +4,7 @@
 Hi, this repo contain an implementation of the [guacamole](https://github.com/oznu/docker-guacamole). 
 
 
-MysqlDB.
+Guacamole.
 
 Enjoy  :)
 
